@@ -1,0 +1,18 @@
+h1{
+    font-weight: bold;
+}
+table{
+    font-size: 20px;
+    width: 400px;
+}
+.cabecalho-moda{
+    background-color: #bb86fc;
+}
+
+.cabecalho-casa{
+    background-color:#00c4b4 ;
+}
+
+.produtos{
+    background-color: #424250 ;
+}
